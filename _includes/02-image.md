@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Michael Rosen "no breathing"](https://duckduckgo.com/?q=michael+rosen+no+breathing&atb=v218-1&iax=images&ia=images&iai=https%3A%2F%2Fvignette1.wikia.nocookie.net%2Fmichaelrosen%2Fimages%2F9%2F90%2FAde062aafcfb46462fa785c7e2bbf068.png%2Frevision%2Flatest%3Fcb%3D20150303222532)
